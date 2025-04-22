@@ -1,1 +1,7 @@
-{}
+{
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Log in"
+  }
+}
